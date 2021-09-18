@@ -1,0 +1,11 @@
+{
+	"appId": "com.justicointeractive.capkeyboardscenesbugrepro",
+	"appName": "cap-keyboard-scenes-bug-repro",
+	"bundledWebRuntime": true,
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}
